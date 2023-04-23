@@ -9,6 +9,6 @@ According to the World Health Organization, around 40 million people are blind, 
 
 
 # Project Drive link 
-[drive link ](https://www.kaggle.com/datasets/awsaf49/coco-2017-dataset)
+[drive link ](https://drive.google.com/drive/folders/1cQu6RvsreQrfKM_BkgpXXTPWGLQFDpxJ)
 
 
